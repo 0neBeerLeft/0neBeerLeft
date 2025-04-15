@@ -1,15 +1,16 @@
 # 0nebeerleft
 
-> Developing software.
+> 
+  
+   
+    Developing software.
 
----
 
 ## ⚫ Interests
 
-* System Architecture & Design
-* Backend Development
-* Process Automation & Tooling
-
+* System Architecture & Design 
+* Backend API Development 
+* Process Automation & Tooling 
 ## ⚙️ Technologies
 
 <p align="left">
@@ -21,17 +22,11 @@
   </p>
 
 ## 🔭 Focus
-
-* Random ass websites
-
----
-
-<p align="center">
-  below to display your language stats -->
-  </p>
+* **[JokesPhone Control Panel](http://ghost2.fwh.is/)** `(WIP)`: Multi-tool/control panel for the JokesPhone app.
+* **[GrabifyURLDetector](https://github.com/0neBeerLeft/GrabifyURLDetector)**: A tool to detect Grabify logging URLs.
+* **Anonymous SMS Sender** `(WIP)`: Website for sending anonymous SMS messages. 
+* **Cali App Password Reset Exploit** `(Planned)`: Details to be published soon. 
 
 ---
 
-📫 [GitHub Issues](https://github.com/0nebeerleft/0nebeerleft/issues)
-
----
+📫 [GitHub Issues](https://github.com/0nebeerleft/0nebeerleft/issues) 
