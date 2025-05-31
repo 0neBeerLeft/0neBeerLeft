@@ -1,11 +1,5 @@
 # 0nebeerleft
 
-> 
-  
-   
-    Developing software.
-
-
 ## ⚫ Interests
 
 * System Architecture & Design 
