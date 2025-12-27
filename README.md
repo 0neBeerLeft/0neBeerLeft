@@ -16,7 +16,7 @@
 ## 🔭 Projects
 * **[GrabifyURLDetector](https://github.com/0neBeerLeft/GrabifyURLDetector)**: A tool to detect Grabify logging URLs.
 * **[Cali App Password Reset Exploit](https://github.com/0neBeerLeft/Cali-App-Vulnerability-Report)** Published.
-* **PacketChat** LAN UDP Terminal Chat.
+* **[PacketChat](https://github.com/0neBeerLeft/PacketChat)** LAN UDP Terminal Chat.
 
 ---
 
