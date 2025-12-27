@@ -15,11 +15,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python"/></a>&nbsp;
   </p>
 
-## 🔭 Focus
-* **[JokesPhone Control Panel](http://ghost2.fwh.is/)** `(WIP)`: Multi-tool/control panel for the JokesPhone app.
+## 🔭 Projects
 * **[GrabifyURLDetector](https://github.com/0neBeerLeft/GrabifyURLDetector)**: A tool to detect Grabify logging URLs.
-* **Anonymous SMS Sender** `(WIP)`: Website for sending anonymous SMS messages. 
-* **Cali App Password Reset Exploit** `(Planned)`: Details to be published soon. 
+* **[Cali App Password Reset Exploit](https://github.com/0neBeerLeft/Cali-App-Vulnerability-Report)** Published. 
 
 ---
 
